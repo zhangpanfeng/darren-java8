@@ -1,4 +1,4 @@
-package com.darren.test.darren_java8;
+package com.darren.test.java8;
 
 /**
  * Hello world!
