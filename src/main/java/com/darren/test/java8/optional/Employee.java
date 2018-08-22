@@ -1,6 +1,4 @@
-package com.darren.test.java8.stream;
-
-
+package com.darren.test.java8.optional;
 public class Employee {
     private int id;
     private String name;
@@ -98,7 +96,4 @@ public class Employee {
             return false;
         return true;
     }
-
-    
-    
 }
